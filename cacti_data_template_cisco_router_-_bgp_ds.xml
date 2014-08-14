@@ -13,34 +13,6 @@
 			<rra_items>hash_150024c21df5178e5c955013591239eb0afd46|hash_1500240d9c0af8b8acdc7807943937b3208e29|hash_1500246fc2d038fb42950138b0ce3e9874cc60|hash_150024e36f3adb9f152adfa5dc50fd2b23337e|hash_150024283ea2bf1634d92ce081ec82a634f513</rra_items>
 		</ds>
 		<items>
-			<hash_0800248de870d809469cf6e80d7c5feab3a650>
-				<t_data_source_name></t_data_source_name>
-				<data_source_name>bgpPeerInTotalMsg</data_source_name>
-				<t_rrd_minimum></t_rrd_minimum>
-				<rrd_minimum>0</rrd_minimum>
-				<t_rrd_maximum></t_rrd_maximum>
-				<rrd_maximum>0</rrd_maximum>
-				<t_data_source_type_id></t_data_source_type_id>
-				<data_source_type_id>2</data_source_type_id>
-				<t_rrd_heartbeat></t_rrd_heartbeat>
-				<rrd_heartbeat>120</rrd_heartbeat>
-				<t_data_input_field_id></t_data_input_field_id>
-				<data_input_field_id>0</data_input_field_id>
-			</hash_0800248de870d809469cf6e80d7c5feab3a650>
-			<hash_08002411e4223336429a39b8d845ffa169b2e2>
-				<t_data_source_name></t_data_source_name>
-				<data_source_name>bgpPeerInUpdates</data_source_name>
-				<t_rrd_minimum></t_rrd_minimum>
-				<rrd_minimum>0</rrd_minimum>
-				<t_rrd_maximum></t_rrd_maximum>
-				<rrd_maximum>0</rrd_maximum>
-				<t_data_source_type_id></t_data_source_type_id>
-				<data_source_type_id>2</data_source_type_id>
-				<t_rrd_heartbeat></t_rrd_heartbeat>
-				<rrd_heartbeat>120</rrd_heartbeat>
-				<t_data_input_field_id></t_data_input_field_id>
-				<data_input_field_id>0</data_input_field_id>
-			</hash_08002411e4223336429a39b8d845ffa169b2e2>
 			<hash_0800246d785535c6c31878946fea057af49983>
 				<t_data_source_name></t_data_source_name>
 				<data_source_name>bgpPeerOutTotalMsg</data_source_name>
@@ -69,6 +41,34 @@
 				<t_data_input_field_id></t_data_input_field_id>
 				<data_input_field_id>0</data_input_field_id>
 			</hash_080024b00e54ec6eb09b7bc0a11190b70c93c8>
+			<hash_08002411e4223336429a39b8d845ffa169b2e2>
+				<t_data_source_name></t_data_source_name>
+				<data_source_name>bgpPeerInUpdates</data_source_name>
+				<t_rrd_minimum></t_rrd_minimum>
+				<rrd_minimum>0</rrd_minimum>
+				<t_rrd_maximum></t_rrd_maximum>
+				<rrd_maximum>0</rrd_maximum>
+				<t_data_source_type_id></t_data_source_type_id>
+				<data_source_type_id>2</data_source_type_id>
+				<t_rrd_heartbeat></t_rrd_heartbeat>
+				<rrd_heartbeat>120</rrd_heartbeat>
+				<t_data_input_field_id></t_data_input_field_id>
+				<data_input_field_id>0</data_input_field_id>
+			</hash_08002411e4223336429a39b8d845ffa169b2e2>
+			<hash_0800248de870d809469cf6e80d7c5feab3a650>
+				<t_data_source_name></t_data_source_name>
+				<data_source_name>bgpPeerInTotalMsg</data_source_name>
+				<t_rrd_minimum></t_rrd_minimum>
+				<rrd_minimum>0</rrd_minimum>
+				<t_rrd_maximum></t_rrd_maximum>
+				<rrd_maximum>0</rrd_maximum>
+				<t_data_source_type_id></t_data_source_type_id>
+				<data_source_type_id>2</data_source_type_id>
+				<t_rrd_heartbeat></t_rrd_heartbeat>
+				<rrd_heartbeat>120</rrd_heartbeat>
+				<t_data_input_field_id></t_data_input_field_id>
+				<data_input_field_id>0</data_input_field_id>
+			</hash_0800248de870d809469cf6e80d7c5feab3a650>
 			<hash_080024966ed0fd47d4bdd44b79e129342ab371>
 				<t_data_source_name></t_data_source_name>
 				<data_source_name>bgpPrefixes</data_source_name>
@@ -77,7 +77,7 @@
 				<t_rrd_maximum></t_rrd_maximum>
 				<rrd_maximum>0</rrd_maximum>
 				<t_data_source_type_id></t_data_source_type_id>
-				<data_source_type_id>4</data_source_type_id>
+				<data_source_type_id>1</data_source_type_id>
 				<t_rrd_heartbeat></t_rrd_heartbeat>
 				<rrd_heartbeat>120</rrd_heartbeat>
 				<t_data_input_field_id></t_data_input_field_id>
